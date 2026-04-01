@@ -1,0 +1,52 @@
+# Credenciais AWS — NUNCA commitar
+.aws/
+credentials
+*.pem
+*.key
+*access_key*
+*secret_key*
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Dados sensíveis
+*.csv
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+logs/
+
+# Terraform (para quando evoluirmos)
+*.tfstate
+*.tfstate.backup
+.terraform/
+*.tfvars
