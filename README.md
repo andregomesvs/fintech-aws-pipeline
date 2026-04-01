@@ -95,7 +95,6 @@ Dados financeiros realistas gerados com Python + Faker:
 - **20.000 perfis** com cartões Gold, Platinum e Black
 - **3,3 milhões de transações** de Jan/2025 a Mar/2026
 - Compras em estabelecimentos do mundo todo
-- ~0,3% de transações com flag de fraude
 - Múltiplas bandeiras: Visa, Mastercard, Elo, Amex
 
 ---
