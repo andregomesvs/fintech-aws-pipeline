@@ -193,7 +193,8 @@ fintech-aws-pipeline/
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor - André Souza 
+
 
 Desenvolvido como projeto prático de aprendizado de AWS Data Engineering.
 
